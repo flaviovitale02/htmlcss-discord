@@ -48,13 +48,13 @@ li{
 
 .white-text{
     color:white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cabin', sans-serif;
 }
 
 
 .black-text{
     color:rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cabin', sans-serif;
 }
 
 
@@ -65,7 +65,7 @@ li{
 
 .hotpink-rect{
     height: 400px;
-    width: 90%;
+    width:90%;
     margin:auto;
 }
 
@@ -157,7 +157,7 @@ p{
     align-items: center;
 }
 
-.downloader2{
+.downloader2{   
     background-color: rgb(110, 110, 243);
     margin:2%;
     border-radius: 20px;
@@ -185,38 +185,62 @@ footer{
 }
 
 .lightpink-rec{
-    background-color: lightpink;
-    border: 2px dashed black;
     height: 300px;
     width: 40%;
-    margin-top: 5%;
+    margin-top: 8%;
 }
 
 .cyan-rec{
-    margin-top: 5%;
-    background-color: cyan;
-    border: 2px dashed black;
+    margin-top: 8%;
     height: 300px;
     width: 20% ;
 }
 
-.aqua-bg{
-    background-color: aqua;
-    height: 80px;
-    width: 100%;
-}
-
 #hr-bianco{
-    margin:3%;
+    margin:2%;
 }
 
-.dashed-pink{
-    background-color: pink;
-    border: 2px dashed black;
-    padding: 2px;
-}
 
 .space{
     justify-content: space-between;
     align-items: center;
+    width: 100%;
 }
+
+
+.blue-text{
+    color:rgb(110, 110, 243);
+    font-family: 'Cabin', sans-serif;
+}
+
+
+.img-footer1{
+    height: 15px;
+}
+
+select{
+    background-color: rgb(53, 51, 51) ;
+    border-color: rgb(53, 51, 51);
+}
+
+.icon{
+    margin-top:7%;
+    margin-right: 7%;
+}
+
+
+.ul-footer{
+    line-height:1.5rem;
+    margin-top: auto;
+}
+
+.margin-h-footer{
+    margin: auto;
+    margin-bottom: 7%;
+}
+
+.right{
+    justify-content: flex-end;
+}
+
+
