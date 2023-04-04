@@ -1,0 +1,145 @@
+.container1{
+    background-color: aquamarine;
+    height:60px;
+}
+
+
+.flex-container{
+    display: flex;
+}
+
+
+ul{
+    list-style-type: none;
+    justify-content: center;
+}
+
+li{
+    padding-right: 3%;
+}
+
+.standard{
+    width:80%;
+    margin: auto;
+    max-width: 800px;
+}
+
+.dashed-yellow1{
+    border: 2px dashed black;
+    background-color: goldenrod;
+    width:20%;
+}
+
+.dashed-yellow2{
+    border: 2px dashed black;
+    background-color: goldenrod;
+    width:60%;
+    padding:2px;
+}
+
+.text-align{
+    text-align: right;
+}
+
+.container2{
+    background-color: blue;
+    height:500px;
+    align-items: center;
+}
+
+.hotpink-rect{
+    background-color: hotpink;
+    border: 2px dashed black;
+    height: 400px;
+    width: 700px
+}
+
+.blue-rec{
+    background-color: blue;
+    border: 2px dashed black;
+    height: 300px;
+    width:70%;
+    margin: auto;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+
+.pink-rec{
+    background-color: pink;
+    border: 2px dashed black;
+    height: 300px;
+    width:30%;
+    margin:  auto;
+    margin-left: 0%;
+    margin-top: 5%;
+}
+
+.bg-lightgray{
+    background-color: lightgrey;
+}
+
+.reverse1{
+    margin-left:auto;
+    margin-right: 0%;
+}
+.reverse2{
+    margin-right:auto;
+    margin-left: 0%;
+}
+
+.green-rec{
+    width: 100%;
+    height: 600px;
+    background-color: darkgreen;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.container-g{
+    background-color: lightgray;
+    height: 800px ;
+    justify-content: center;
+}
+
+footer{
+    background-color: rgb(55, 55, 55);
+    height: 800px;
+}
+
+.lightpink-rec{
+    background-color: lightpink;
+    border: 2px dashed black;
+    height: 300px;
+    width: 40%;
+    margin-top: 5%;
+}
+
+.cyan-rec{
+    margin-top: 5%;
+    background-color: cyan;
+    border: 2px dashed black;
+    height: 300px;
+    width: 20% ;
+}
+
+.aqua-bg{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+}
+
+#hr-bianco{
+    margin:3%;
+}
+
+.dashed-pink{
+    background-color: pink;
+    border: 2px dashed black;
+    padding: 2px;
+}
+
+.space{
+    justify-content: space-between;
+    align-items: center;
+}
