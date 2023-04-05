@@ -170,7 +170,10 @@ p{
 
 #bg-star{
     background-image: url(img/stars.svg);
-    padding: 5%;
+    padding-top: 5%;
+    padding-right: 6%;
+    padding-left: 6%;
+    padding-bottom: 0%;
 }
 
 .container-g{
