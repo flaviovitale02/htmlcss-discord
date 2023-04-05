@@ -170,6 +170,7 @@ p{
 
 #bg-star{
     background-image: url(img/stars.svg);
+    padding: 5%;
 }
 
 .container-g{
@@ -181,7 +182,7 @@ p{
 
 footer{
     background-color: rgb(53, 51, 51);
-    height: 800px;
+    height: 1000px;
 }
 
 .lightpink-rec{
